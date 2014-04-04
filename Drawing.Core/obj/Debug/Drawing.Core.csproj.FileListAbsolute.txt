@@ -1,0 +1,8 @@
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\bin\Debug\Drawing.Core.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\bin\Debug\Drawing.Core.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\obj\Debug\Drawing.Core.dll
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\obj\Debug\Drawing.Core.pdb
+C:\Users\Denis\Documents\Visual Studio 2013\Repos\Maks_and_Denis\Drawing\Drawing.Core\obj\Debug\Drawing.Core.csprojResolveAssemblyReference.cache
